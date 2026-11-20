@@ -1,0 +1,5 @@
+[
+  {"full name": "Jon Smith", "email address": "john.smith@example.com", "phone number": "(987) 654-3210", "created at": "Jan 15, 2023"},
+  {"full name": "Rahul Verma", "email address": "RAHUL.V@example.com", "phone number": "9123456780", "created at": "2022-11-30"},
+  {"full name": "Karan Mehta", "email address": "karan.m@example.com", "phone number": "9555500000", "created at": "2024-03-01"}
+]
